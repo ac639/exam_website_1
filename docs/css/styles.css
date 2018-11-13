@@ -71,9 +71,7 @@ body {
     position: relative;
     left: 11px;
     bottom: 15px;
-
 }
-
 
 #footer {
     color: white;
@@ -87,14 +85,20 @@ body {
 }
 
 #main {
-    width: 480px;
+    width: 320px;
     height: 554px;
+    padding-right: 600px;
 
 }
 
 .content {
-    width: 642px;
+    width: 50px;
     background-color: green;
+
+}
+
+.grHalf2 {
+    padding-left: 657px;
 
 
 }
