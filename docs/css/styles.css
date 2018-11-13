@@ -26,8 +26,8 @@ body {
 
 #imageholder {
     position: absolute;
-    width: 310px;
-    height: 220px;
+    width: 316px;
+    height: 280px;
 
 }
 
@@ -35,6 +35,8 @@ body {
     position: relative;
     width: 291px;
     height: 199px;
+    left: 12px;
+    top: 14px;
 }
 
 #text1 {
