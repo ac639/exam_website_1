@@ -85,21 +85,22 @@ body {
 }
 
 #main {
+    position: relative;
     width: 320px;
-    height: 554px;
-    padding-right: 600px;
+    height: 700px;
 
+}
+
+.tablewidth {
+    width: 0px;
+}
+
+.grBig {
+    width: 797px;
 }
 
 .content {
-    width: 50px;
-    background-color: green;
-
-}
-
-.grHalf2 {
-    padding-left: 657px;
-
+    width: 600px;
 
 }
 
