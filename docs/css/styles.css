@@ -35,8 +35,13 @@ body {
     position: relative;
     width: 291px;
     height: 199px;
-    left: 12px;
+    left: 13px;
     top: 14px;
+}
+
+#heading1 {
+    font-size: 13px;
+
 }
 
 #text1 {
