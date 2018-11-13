@@ -24,26 +24,6 @@ body {
     height: 554px;
 }
 
-#imageholder {
-    position: absolute;
-    width: 316px;
-    height: 280px;
-
-}
-
-#image {
-    position: relative;
-    width: 291px;
-    height: 199px;
-    left: 13px;
-    top: 14px;
-}
-
-#heading1 {
-    font-size: 11px;
-    padding-left: 11px;
-
-}
 
 #text1 {
     position: relative;
@@ -60,6 +40,40 @@ body {
     padding-top: 0px;
 
 }
+
+#imageholder {
+    position: absolute;
+    width: 316px;
+    height: 280px;
+
+}
+
+#image {
+    position: relative;
+    width: 291px;
+    height: 199px;
+    left: 13px;
+    top: 14px;
+}
+
+#heading1 {
+    position: relative;
+    font-size: 11px;
+    padding-left: 11px;
+
+}
+
+#description {
+    font-size: 12px;
+}
+
+#description {
+    position: relative;
+    left: 11px;
+    bottom: 15px;
+
+}
+
 
 #footer {
     color: white;
