@@ -2,17 +2,23 @@ body {
 
 }
 
-#grHalf {
-    width: 480px;
-    padding-left: 24px;
-    padding-right: 24px;
-    color: green;
-}
-
-#top {
+#menu {
     height: 125px;
     line-height: 125px;
+}
 
+#shadedBox {
+    position: relative;
+    background-color: white;
+    width: 367px;
+    top: 50px;
+    left: 100px;
+}
+#banner {
+    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
 }
 
 #wrapper {
