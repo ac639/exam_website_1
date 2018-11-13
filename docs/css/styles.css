@@ -5,6 +5,7 @@ body {
 #menu {
     height: 125px;
     line-height: 125px;
+    text-decoration: none;
 }
 
 #banner {
@@ -31,7 +32,13 @@ body {
     padding-top: 105px;
 }
 
+#text2 {
+    position: relative;
+    font-size: 13px;
+    padding-left: 30px;
+    padding-top: 105px;
 
+}
 #wrapper {
     width: 960px;
 }
