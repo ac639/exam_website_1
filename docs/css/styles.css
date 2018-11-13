@@ -7,18 +7,20 @@ body {
     line-height: 125px;
 }
 
+#banner {
+    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 554px;
+    width:960px;
+}
+
 #shadedBox {
     position: relative;
     background-color: white;
     width: 367px;
     top: 50px;
     left: 100px;
-}
-#banner {
-    background-image: url("../images/4x4-adventure-automobile-1571783.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 370px;
 }
 
 #wrapper {
