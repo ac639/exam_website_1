@@ -1,81 +1,52 @@
 body {
-    font-family: Helvetica, "Helvetica Neue", sans-serif;
-
-}
-
-#box1 {
-    background-color: blue;
-    float: left;
-
-
-}
-#box2 {
-    background-color: red;
-    float: left;
-
-}
-#box3 {
-    background-color: green;
-    clear: left;
-    float: left;
-
-}
-#box4 {
-    background-color: purple;
-    float: left;
-
-}
-
-.box {
-    height: 36px;
-    width: 36px;
-    border: black 1px solid;
-    padding: 7px;
-
 
 }
 
 #wrapper {
     width: 960px;
+}
+
+.borderThin {
     border: 1px solid black;
-    margin-left: auto;
+}
+
+.helvetica {
+    font-family: Helvetica, "Helvetica Neue", sans-serif;
+}
+
+.marginCenter {
     margin-right: auto;
-
+    margin-left: auto;
 }
 
-#menu {
-    background-color: antiquewhite;
-    height: 25px;
-    line-height: 25px;
-
-
-
+.displayInline {
+    display: inline;
 }
-#menu ul {
+
+.floatLeft {
+    float: left;
+}
+
+.clearMargin {
     margin: 0px;
 }
-
-#menu li {
-    display: inline;
-
+.clearPadding {
+    padding: 0px;
 }
 
-#content {
-    width: 544px;
-    background-color: green;
-    float: left;
-    padding-left: 24px;
-    padding-right: 24px;
-    line-height: 27px;
-}
-
-#sidebar {
-    background-color: chocolate;
-    width: 366px;
-    float: left;
-}
-
-#footer {
-    background-color: bisque;
+.clearFix {
     clear: both;
 }
+
+.textRight {
+    text-align: right;
+}
+
+.textLeft {
+    text-align: left;
+}
+
+.textCenter {
+    text-align: center;
+}
+
