@@ -2,6 +2,19 @@ body {
 
 }
 
+#grHalf {
+    width: 480px;
+    padding-left: 24px;
+    padding-right: 24px;
+    color: green;
+}
+
+#top {
+    height: 125px;
+    line-height: 125px;
+
+}
+
 #wrapper {
     width: 960px;
 }
